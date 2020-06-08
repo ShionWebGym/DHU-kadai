@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #1b1b1b;
+  font-size: 16px;
+  height: 100%;
+  margin: 0 auto;
+}
+.ocbtn{
+  text-decoration: none;
+  color:#ffffff;
+  font-size: 1.5rem;
+  font-weight: bold;
+  background-color: #000000;
+  display: block;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 20px;
+  max-width: 320px;
+  text-align: center;
+  height:36px;
+}
+.text1{
+font-size: 1.5rem;
+color: #ffffff;
+font-weight: bold;
+width: 100vh;
+margin-left: 40px;
+padding-top: 40px;
+line-height: 30px;
+}
+.topimage{
+  background-image:url("../images/web_hero_large.jpg");
+  background-position:center;
+  background-size:cover;
+  height: 50vh;
+}
