@@ -1,0 +1,60 @@
+.class-image_1{
+    background-image:url("../images/classes_prototyping_large.jpg") ;
+    background-position:center;
+    background-size:cover;
+    height: 30vh;
+    width: 30vh;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.class-image_2{
+    background-image:url("../images/classes_development_large.jpg") ;
+    background-position:center;
+    background-size:cover;
+    height: 30vh;
+    width: 30vh;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.class-image_3{
+    background-image:url("../images/classes_seminar_large.jpg") ;
+    background-position:center;
+    background-size:cover;
+    height: 30vh;
+    width: 30vh;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.container-box{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.head2{
+    text-align: center;
+    color: #ffffff;
+    font-size: 4.5rem;
+    margin-top: 25vh;
+}
+.class-name{
+    font-size: 1.5rem;
+    color: #ffffff;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.Class{
+    margin-right: 10vw;
+}
+.class-para{
+    color: #ffffff;
+    width: 25vw;
+    margin-left: 80px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+.class-box{
+    margin: 20px;
+}

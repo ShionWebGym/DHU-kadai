@@ -17,3 +17,30 @@
   margin-top: 30px;
   padding-bottom: 30px;
 }
+a div{
+  background-color: #ffffff;
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  display: block;
+  content: "";
+  position: fixed;
+  right: 20vh;
+  top: 0;
+}
+.pagenation-anime:nth-child(1) {
+  margin-top: 20vh;
+  background-color: #f60;
+}
+.pagenation-anime:nth-child(2) {
+  margin-top: 35vh;
+}
+.pagenation-anime:nth-child(3) {
+  margin-top: 50vh;
+}
+.pagenation-anime:nth-child(4) {
+  margin-top: 65vh;
+}
+.pagenation-anime:nth-child(5) {
+  margin-top: 80vh;
+}

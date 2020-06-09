@@ -3,10 +3,11 @@ import logo from './logo_dhu.svg';
 import './css/App.css';
 import Navi from './Navi';
 import Main from './Main';
+import Pagenation from './Pagenation';
 
 function App() {
   return (
-    <div className="App">
+    <div id="top" className="App">
       <header className="App-header">
       <div className="wrapper">
       <a href="https://www.dhw.ac.jp/" className="logo_dhu">
@@ -15,6 +16,7 @@ function App() {
       <Navi/>
       </div>
       </header>
+      <Pagenation/>
       <Main/>
     </div>
   );

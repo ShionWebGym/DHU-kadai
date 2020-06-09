@@ -1,0 +1,54 @@
+.teacher-section{
+    height: 80vh;
+}
+.teacher-box{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.teacher-box li{
+    width: 15vw;
+}
+.teacher-box li+li{
+    margin-left: 8rem;
+}
+.teacher-box li p{
+    color: #ffffff;
+    font-weight: bold;
+}
+.teacher-section-head{
+    color: #ffffff;
+    font-size: 4.5rem;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.teacher{
+    max-width: 15vw;
+    height: auto;
+    margin: auto;
+}
+h2{
+    margin: 0;
+}
+.teabtn{
+    margin-bottom: 40px;
+    text-decoration: none;
+    color:#ffffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: #000000;
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 20px;
+    max-width: 320px;
+    text-align: center;
+    height:36px;
+    margin-top: 40px;
+}
+.teacher-name{
+    font-size: 1.5rem;
+    color: #ffffff;
+    padding-top: 32px;
+}
