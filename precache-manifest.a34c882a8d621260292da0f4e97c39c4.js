@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1220e74425fdc406fb87106af3d47f8",
+    "revision": "f3770bff537bdc231026e0e731330f4b",
     "url": "/DHU-kadai/index.html"
   },
   {
