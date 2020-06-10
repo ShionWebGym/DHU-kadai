@@ -15,4 +15,18 @@ li a{
     font-weight: bold;
     text-decoration: none;
 }
+.nav1:hover,
+.nav2:hover,
+.nav3:hover,
+.nav4:hover{
+    text-shadow:0 0 10px #ffffff;
+    transition: 0.4s;
+}
+.nav1,
+.nav2,
+.nav3,
+.nav4{
+    transition: 0.4s;
+}
+
 

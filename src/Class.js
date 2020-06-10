@@ -4,7 +4,7 @@ import './css/Class.css';
 class Class extends Component{
     render(){
         return(
-            <div className="Class">
+            <div className="Class" id="class" name="class">
             <h2 className="head2">WEBデザイン・WEB開発の授業紹介</h2>
             <ul className="container-box">
                 <li className="class-box">

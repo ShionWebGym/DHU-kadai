@@ -6,6 +6,8 @@ import Teacher from './Teacher';
 import Route from './Route';
 import Others from './Others';
 
+// import ReactFullpage from '@fullpage/react-fullpage';
+
 class Main extends Component{
     render(){
         return(

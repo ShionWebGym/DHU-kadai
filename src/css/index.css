@@ -35,6 +35,15 @@ h2{
   text-align: center;
   height:36px;
   margin-top: 40px;
+  transition: 0.4s;
+  padding: 5px 5px;
+}
+
+.ocbtn:hover{
+  background-color: #f60;
+  transition: 0.4s;
+  color: #ffffff;
+  
 }
 .text1{
 font-size: 1.5rem;
