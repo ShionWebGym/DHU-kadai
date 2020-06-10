@@ -4,7 +4,7 @@ import wada from './images/wada_main.jpg';
 class Route extends Component{
     render(){
         return(
-            <div className="route" id="route">
+            <div className="route" id="content">
             <h2 className="route-head">WEBデザイン・WEB開発の卒業生</h2>
             <img src={wada} alt="和田さん" className="wada-image"></img>
             <h3 className="route-name">和田 泰弘さん &lang;株式会社サイバーエージェント&rang;</h3>

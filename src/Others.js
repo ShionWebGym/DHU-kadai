@@ -3,7 +3,7 @@ import './css/Others.css';
 class Others extends Component{
     render(){
         return(
-            <div className="others" id="others">
+            <div className="others" id="content">
             <h2 className="others-head">OTHER SUBJECTS</h2>
             <ul className="others-box">
                 <li className="grid1">

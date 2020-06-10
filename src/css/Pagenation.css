@@ -11,7 +11,6 @@
   }
   .pagenation-anime:nth-child(1) {
     margin-top: 20vh;
-    background-color: #f60;
   }
   .pagenation-anime:nth-child(2) {
     margin-top: 35vh;
@@ -24,4 +23,7 @@
   }
   .pagenation-anime:nth-child(5) {
     margin-top: 80vh;
+  }
+  .pagenation-anime.active{
+    background-color: #f60;
   }

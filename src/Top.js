@@ -11,7 +11,7 @@ class Top extends Component{
     }
     render(){
         return(
-            <div id="top" name="top">
+            <div id="content" name="top">
             <FadeIn transitionDuration="1500" delay="800">
             <h1 style={this.h1}>
                 Web業界をリードするための<br/>知識と技術を手に入れる
