@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DHU-kadai/precache-manifest.a34c882a8d621260292da0f4e97c39c4.js"
+  "/DHU-kadai/precache-manifest.fec4be229a56326375cf906f241bf167.js"
 );
 
 self.addEventListener('message', (event) => {
