@@ -12,14 +12,18 @@ class Top extends Component{
     render(){
         return(
             <div id="content" name="top">
-            <FadeIn transitionDuration="1500" delay="800">
+            <FadeIn transitionDuration="1400" delay="400">
             <h1 style={this.h1}>
                 Web業界をリードするための<br/>知識と技術を手に入れる
             </h1>
             </FadeIn>
             <div className="topimage">
+            <FadeIn transitionDuration="1400" delay="800">
             <p className="text1">スマートフォンの普及、SNSの流行、ネットワークビジネスの拡大など、めざましい発展を続けるWeb業界。そこで求められる最先端の知識と技術を身につけられるのが、DHUの特長です。Webサイトの構築技法のみならず各種サービスの企画・運営についてまでを修得し業界の今、そしてこれからを活性化させる人材となることを目指します。</p>
+            </FadeIn>
+            <FadeIn transitionDuration="1400" delay="1200">
             <a href="https://www.dhw.ac.jp/oc/" className="ocbtn">オープンキャンパスへ行く</a>
+            </FadeIn>
             <a href="https://www.dhw.ac.jp/oc/" className="scrollbtn"><span></span>Scroll</a>
             </div>
             </div>
