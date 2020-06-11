@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f494c3649c71560180935b337c00ab5",
+    "revision": "f6c096c3dc70ebc0e7b3f21fb55153ba",
     "url": "/DHU-kadai/index.html"
   },
   {
-    "revision": "3bb055ee2e8262d51973",
-    "url": "/DHU-kadai/static/css/main.2b325cf4.chunk.css"
+    "revision": "6bdfcce420ed8ec83197",
+    "url": "/DHU-kadai/static/css/main.25543015.chunk.css"
   },
   {
-    "revision": "5c3017e3661837711e87",
-    "url": "/DHU-kadai/static/js/2.457e5e2a.chunk.js"
+    "revision": "7651d70dbfe3d7828f80",
+    "url": "/DHU-kadai/static/js/2.cf1c4d9e.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/DHU-kadai/static/js/2.457e5e2a.chunk.js.LICENSE.txt"
+    "url": "/DHU-kadai/static/js/2.cf1c4d9e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3bb055ee2e8262d51973",
-    "url": "/DHU-kadai/static/js/main.27931810.chunk.js"
+    "revision": "6bdfcce420ed8ec83197",
+    "url": "/DHU-kadai/static/js/main.484aae10.chunk.js"
   },
   {
     "revision": "00d727db385f3b0b6a7b",
