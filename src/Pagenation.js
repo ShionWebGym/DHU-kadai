@@ -1,7 +1,6 @@
 import './css/Pagenation.css';
 import React, { Component } from 'react';
-// import React, { useEffect } from 'react';
-// import { useInview } from 'react-intersection-observer';
+
 class Pagenation extends Component{
     render(){
         return(

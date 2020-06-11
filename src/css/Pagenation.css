@@ -6,7 +6,7 @@
     display: block;
     content: "";
     position: fixed;
-    right: 10vh;
+    right: 8vh;
     top: 0;
   }
   .pagenation-anime:nth-child(1) {

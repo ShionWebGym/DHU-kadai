@@ -7,7 +7,7 @@ import yuki from './images/teacher_yuki_nakamura_large.jpg';
 class Teacher extends Component{
     render(){
         return(
-            <div className="teacher-section" id="content">
+            <div className="teacher-section" id="teacher">
             <h2 className="teacher-section-head">WEBデザイン・WEB開発の担当教員</h2>
             <ul className="teacher-box">
                 <li>

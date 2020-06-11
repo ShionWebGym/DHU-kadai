@@ -1,9 +1,15 @@
 import React, { Component } from "react";
 import './css/Others.css';
+import { animateScroll as scroll } from 'react-scroll';
+
 class Others extends Component{
+    scrollToTop = () => {
+        scroll.scrollToTop(); 
+      };
+
     render(){
         return(
-            <div className="others" id="content">
+            <div className="others" id="others">
             <h2 className="others-head">OTHER SUBJECTS</h2>
             <ul className="others-box">
                 <li className="grid1">
@@ -31,7 +37,7 @@ class Others extends Component{
                     <a href="https://www.dhw.ac.jp/faculty/business/" className="grid-image_bus"><span className="grid-text">広告・起業</span></a>
                 </li>
             </ul>
-            <a href="#top" className="backbtn">サイトトップへ戻る</a>
+           <a href="#top" className="backbtn scroll scroll-up"  onClick={this.scrollToTop}>サイトトップへ戻る</a>
             <p className="copy"><small>Copyright c 2018 Digital Hollywood Co.,Ltd. All Rights Reserved.</small></p>
             </div>
         );
